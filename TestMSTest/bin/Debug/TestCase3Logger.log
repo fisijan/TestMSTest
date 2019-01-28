@@ -1,0 +1,9 @@
+[2019-01-17 15:25:44,821] INFO - Start TestCase3
+ [2019-01-17 15:25:44,853] INFO - Info logging3
+ [2019-01-17 15:25:44,856] ERROR - Error logging3
+ [2019-01-17 15:25:44,858] DEBUG - Debug logging3
+ [2019-01-17 15:28:51,872] INFO - Start TestCase3
+ [2019-01-17 15:28:51,909] INFO - Info logging3
+ [2019-01-17 15:28:51,911] ERROR - Error logging3
+ [2019-01-17 15:28:51,914] DEBUG - Debug logging3
+ 

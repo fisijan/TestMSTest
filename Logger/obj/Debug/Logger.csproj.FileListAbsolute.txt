@@ -1,0 +1,9 @@
+C:\Users\x-fisij\source\repos\TestMSTest\Logger\bin\Debug\Logger.dll
+C:\Users\x-fisij\source\repos\TestMSTest\Logger\bin\Debug\Logger.pdb
+C:\Users\x-fisij\source\repos\TestMSTest\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\x-fisij\source\repos\TestMSTest\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\x-fisij\source\repos\TestMSTest\Logger\obj\Debug\Logger.csproj.CopyComplete
+C:\Users\x-fisij\source\repos\TestMSTest\Logger\obj\Debug\Logger.dll
+C:\Users\x-fisij\source\repos\TestMSTest\Logger\obj\Debug\Logger.pdb
+C:\Users\x-fisij\source\repos\TestMSTest\Logger\bin\Debug\log4net.dll
+C:\Users\x-fisij\source\repos\TestMSTest\Logger\bin\Debug\log4net.xml

@@ -1,0 +1,13 @@
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\bin\Debug\Log4Net.config
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\bin\Debug\TestMSTest.dll.config
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\bin\Debug\TestMSTest.dll
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\bin\Debug\TestMSTest.pdb
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\bin\Debug\log4net.dll
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\bin\Debug\log4net.xml
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\obj\Debug\TestMSTestProject.csproj.CoreCompileInputs.cache
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\obj\Debug\TestMSTestProject.csproj.CopyComplete
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\obj\Debug\TestMSTest.dll
+C:\Users\x-fisij\source\repos\TestMSTest\TestMSTest\obj\Debug\TestMSTest.pdb
